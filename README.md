@@ -13,17 +13,25 @@ These answers would help HR analytics be able to take proactive decisions to imp
 
 How to run the code 
 1)Download the csv file 
+
 2)Open in link to google colab
+
 3) run 1) uploading file and upload here 
+
 4) run the rest of the codes 
 
 
 Following steps have been taken
+
 1)Visualizing data - manual analytics (also done on tableau
 https://public.tableau.com/profile/alishay.akmal#!/vizhome/HRattrition_15928654931340/Dashboard1)
+
 2) Describing data 
+
 3) Removing attributions using corr,random forest and Logistic regression
+
 4) Classification  using  Decision tree, logistic regression, knn neighbours 
+
 5) Next steps to compare the results and improve it and provide reccomendations - 
 
 
