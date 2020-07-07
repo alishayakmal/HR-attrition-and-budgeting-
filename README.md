@@ -20,6 +20,7 @@ How to run the code
 
 Following steps have been taken
 1)Visualizing data - manual analytics (also done on tableau
+https://public.tableau.com/profile/alishay.akmal#!/vizhome/HRattrition_15928654931340/Dashboard1)
 2) Describing data 
 3) Removing attributions using corr,random forest and Logistic regression
 4) Classification  using  Decision tree, logistic regression, knn neighbours 
