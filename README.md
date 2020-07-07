@@ -12,11 +12,11 @@ These answers would help HR analytics be able to take proactive decisions to imp
 
 
 How to run the code 
-1)Download the csv file 
+1)Download the csv file WA_Fn-UseC_-HR-Employee-Attrition (1).csv
 
 2)Open in link to google colab
 
-3) run 1) uploading file and upload here 
+3) run 1) uploading file and upload here :
 
 4) run the rest of the codes 
 
