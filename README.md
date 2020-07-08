@@ -2,6 +2,8 @@
 Analyzing and predicting HR data.
 
 Business Problem
+
+
 Workforce management is critical in every business and it impacts on the performance of the company. While some impacts are unforeseen,working with a significant large data set would help to run a model on employees, to develop certain “at risk” categories of employee. It is important to attract and retain top talents ,therefore this model needs to be generated in predicting workforce and its budget.
 
 Chosen sample data set presents an employee survey from IBM including attrition and monthly income.This theoretical dataset is downloaded from IBM and is called HR Analytics Employee Attrition & Performance.It consists of 1471 rows and 34 attributes which contain data of employee history. My primary objective is preprocess ,classify and present my findings on this dataset to answer following questions: 
